@@ -4,9 +4,9 @@
 ###
 ###
   <div>
-  <a href="https://github.com/SuellenMoreiraLima">
-      <img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuellenMoreiraLima&layout=compact&langs_count=7&theme=dracula"/_>   
-  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=SuellenMoreiraLima&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+  <a href="https://github.com/SuellenLimaDev">
+      <img height="169em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuellenLimaDev&layout=compact&langs_count=7&theme=dracula"/_>   
+  <img height="169em" src="https://github-readme-stats.vercel.app/api?username=SuellenLimaDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
 /__>
 
 </div>
@@ -33,6 +33,6 @@
    <a href="https://www.instagram.com/su_moreira_lima/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
    <a href="Suellen_Lima#7765" target="_blank"> <img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord & logoColor = white "target =" _ blank "> </a>
      
-  ![Snake animation](https://github.com/SuellenMoreiraLima/SuellenMoreiraLima/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/SuellenLimaDev/SuellenLimaDev/blob/output/github-contribution-grid-snake.svg)
  
 </div>
